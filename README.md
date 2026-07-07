@@ -12,6 +12,6 @@ The application provides a graphical interface for viewing and analyzing critica
 
 ---
 
-**WinError.exe** - Opens a GUI to quickly display various Windows reports.
+**WinErrorTool.exe** - Version 2.5 Final - Opens a GUI to quickly display various Windows reports.
 
 Free to use at your own risk! 
