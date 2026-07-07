@@ -8,6 +8,8 @@
 
 A modern Windows Event Log analysis and diagnostics tool built with **PowerShell + WinForms**.
 
+Language: English + Deutsch
+
 The application provides a graphical interface for viewing and analyzing critical Windows system events, application crashes, disk failures, kernel power issues, and network-related errors directly from the Windows Event Log system.
 
 ---
